@@ -5,6 +5,7 @@ import WelcomePage from './components/welcomePage/welcomePage';
 import Footer from './components/footer/footer';
 import Categories from './components/categories/categories'
 import CategoryProfile from './components/categoryProfile/categoryProfile';
+import BookProfile from './components/bookProfile/bookProfile';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Route path="/" exact component={WelcomePage} />
         <Route path="/categories" component={Categories} />
         <Route path="/categorypage" component={CategoryProfile} />
+        <Route path="/bookprofile" component={BookProfile} />
         </Switch>
         <Footer/>
     </div>
