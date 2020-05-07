@@ -1,0 +1,10 @@
+.categoriesPage,h1{
+    color: black;
+    text-align: center;
+}
+ul{
+    text-align: left;
+    font-weight: normal;
+    padding-left: 0%;
+    font-size: 15px;
+}
