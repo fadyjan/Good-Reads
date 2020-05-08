@@ -3,6 +3,7 @@
 
 #navbar{
     background-color: #247BA0;
+    height: 10%;
 }
 .navlink{
     color: #F3FFBD !important;
@@ -12,6 +13,7 @@
     background-color: rgba(198, 210, 214, 0.534);
 }
 .navbarSpan{
+    color: #F3FFBD !important;
     font-family: 'Raleway', sans-serif;
     font-size: 40px;
     padding: 0 !important;
@@ -29,13 +31,13 @@
 #quote{
     background-color:rgba(23, 23, 24, 0.24);
 }
-#quote,h1{
+#quote>h1{
     font-family: 'Acme', sans-serif;
     text-align: center;
     color: mintcream;
     font-size: 70px !important;
 }
-form{
+.form{
     background-color: rgba(181, 190, 190, 0.226);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border: solid grey 2px;
@@ -46,14 +48,13 @@ form{
     font-family: 'Source Serif Pro', serif;
     
 }
-img{
-    margin-bottom: 0px !important;
-}
 .signinIcons{
     height: 15%;
     color: white;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.781) ;
 }
-span{
+.signinSpan{
     font-family: 'Source Serif Pro', serif;
     font-size: 20px;
 }

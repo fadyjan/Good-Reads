@@ -11,3 +11,7 @@
 .bookProfile{
     width: 90%;
 }
+.starRating>span{
+    width: 50px !important;
+    height: 20px !important;
+}
