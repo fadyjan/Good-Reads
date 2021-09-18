@@ -19,6 +19,15 @@ Good Reads website using MERN stack Intake 40 IoT ITI
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
 # Demo
+![Alt text](./GoodReads1.JPG "Title")
+![Alt text](./GoodReads2.JPG "Title")
+![Alt text](./GoodReads3.JPG "Title")
+![Alt text](./GoodReads4.JPG "Title")
+![Alt text](./GoodReads5.JPG "Title")
+![Alt text](./GoodReads6.JPG "Title")
+![Alt text](./GoodReads7.JPG "Title")
+
+
 [Click ME :)](http://34.107.102.252:3001/)
 
 for test and admin login use:
